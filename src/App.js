@@ -2,6 +2,7 @@
 
 import PriceCard from './PriceCard';
 import 'bootstrap/dist/css/bootstrap.css';
+import Style from "./Style.css"
 
 
 function App() {
